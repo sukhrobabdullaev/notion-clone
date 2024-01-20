@@ -6,11 +6,11 @@ import React from "react";
 const Hero = () => {
   return (
     <>
-      <div className="max-w-3xl spac-y-4">
-        <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold">
+      <div className="max-w-3xl">
+        <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold my-4">
           Write, plan, share. With AI at your side.
         </h1>
-        <h3 className="text-base sm:text-xl md:text-2xl font-medium">
+        <h3 className="text-base sm:text-xl md:text-2xl font-medium my-4">
           Notion is the connected workspace where better, faster work happens.
         </h3>
         <Button>
